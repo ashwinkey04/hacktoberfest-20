@@ -1,7 +1,10 @@
 # Hello Hacker!!
+
 <p align="center">
-<img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540" width=500>
+	<img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540" width=500>
+
 Welcome to Hacktoberfest 2020! Begin your Open Source Journey as a contributor by learning to make Pull Requests to a repository. What better place than here to do the same 
+	
 </p>
 
 ## Make your first PR!
