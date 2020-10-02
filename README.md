@@ -10,10 +10,10 @@ Welcome to Hacktoberfest 2020! Begin your Open Source Journey as a contributor b
 ## Make your first PR!
 1. Fork this repository to your account by clicking the **Fork** button on this repo
 ![image](https://user-images.githubusercontent.com/20596763/94799620-06c53d00-0401-11eb-8e78-358c67a67e91.png)
-2. You now have this repo in your github account. You must be able to see it in github.com/your-github-username/hacktoberfest-20 
+2. You now have this repo in your github account. You must be able to see it in 'github.com/your-github-username/hacktoberfest-20 '
 3. Go ahead and **clone** this repository from your account to your PC. At this point, make sure you have Git installed in your PC. Refer this [documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) from git for instructions. By using the command 
 `git clone https://github.com/<your-github-username>/hacktoberfest-20`
-4. Open the cloned directory using your system's file manager. You must see two files namely **AWESOME.md** and **README.md**
+4. Open the cloned directory using your system's file manager. You must see two files namely **awesome.md** and **README.md**
 5. Open AWESOME.md using your favorite text editor and add your name to a new line at the bottom of the file in this format. Feel free to add your favorite emoji with the help of markdown emojis [here](https://gist.github.com/rxaviers/7360908)
 `AwesomeName :sunglasses: `
 This will look like this :arrow_down: when opened in GitHub later. So keep going!
