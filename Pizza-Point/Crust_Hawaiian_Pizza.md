@@ -4,18 +4,19 @@
 
 ### Ingredients - 
 
-- Canned Pineapple cubes
 - Mozzarella Cheese
 - Oregano
 - Onions
 - Black olives
 - Sweet corn
 - Olive oil
+- Chilli flakes
 - Capsicum cubes
 
 ### Type
 - Pan burst
 - Cheese burst
+- Double Cheese burst
 - Hand Tossed
 
 ### Size
