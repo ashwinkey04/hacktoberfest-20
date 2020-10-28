@@ -1,2 +1,1 @@
-Shashank Priyadarshi
 ZilchGl1tch
