@@ -1,4 +1,4 @@
 Shashank Priyadarshi
-ZilchGl1tch
+zilchgl1tch
 Lorem Ipsum
 :bulb:
